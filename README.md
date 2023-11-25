@@ -12,5 +12,9 @@ STEP TO BE FOLLOWED WHILE EXECUTING THE CODE:-
 3. Then create a new Folder and Name that folder as the output
 4. Finally Run the Code Snippet and We can see the output of the Segmented Image.
 
+YOUTUBE VIDEO LINK
+----------------------
+https://youtu.be/_3UOTI-IwaA
+
 
 END
